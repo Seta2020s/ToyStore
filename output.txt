@@ -1,0 +1,10 @@
+Selected Toy: Робот, Weight: 3
+Selected Toy: Кукла, Weight: 3
+Selected Toy: Конструктор, Weight: 1
+Selected Toy: Кукла, Weight: 3
+Selected Toy: Кукла, Weight: 6
+Selected Toy: Робот, Weight: 2
+Selected Toy: Конструктор, Weight: 2
+Selected Toy: Кукла, Weight: 3
+Selected Toy: Робот, Weight: 2
+Selected Toy: Кукла, Weight: 3
